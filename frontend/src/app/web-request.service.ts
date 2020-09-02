@@ -46,5 +46,9 @@ export class WebRequestService {
       });
   }
 
+  // logout(uri: string){
+  //   return this.http.get(`${this.ROOT_URL}/${uri}`);
+  // }
+
 
 }
